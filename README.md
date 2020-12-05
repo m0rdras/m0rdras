@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Look around my repos or just stare at this mesmerizing animation:
-
-![animation](https://64.media.tumblr.com/e8c568b5831482a114d1fd8303cf69a2/48a36b215e1ddf8d-1a/s500x750/1bb23ff6422ce6bb469080a69b334f02a7a48f68.gifv)
-
-(Image by Etienne Jacob, https://necessary-disorder.tumblr.com/)
+A collection of some playground stuff. Leave a note, an issue or a pull request!
 
 <!--
 **m0rdras/m0rdras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
